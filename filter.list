@@ -26,4 +26,5 @@ https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/coinbl_ips.ipset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
+http://talosintel.com/feeds/ip-filter.blf
 http://192.168.1.88:81/8080_blocklist.csv
