@@ -30,4 +30,4 @@ http://talosintel.com/feeds/ip-filter.blf
 https://www.binarydefense.com/banlist.txt
 https://zeustracker.abuse.ch/blocklist.php?download=ipblocklist
 http://192.168.1.88:81/8080_blocklist.csv
-http://nas/blockranges.txt
+## http://nas/blockranges.txt
