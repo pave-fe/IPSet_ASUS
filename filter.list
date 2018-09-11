@@ -28,6 +28,7 @@ https://iplists.firehol.org/files/coinbl_ips.ipset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
 http://talosintel.com/feeds/ip-filter.blf
 https://www.binarydefense.com/banlist.txt
+http://cinsscore.com/list/ci-badguys.txt
 https://zeustracker.abuse.ch/blocklist.php?download=ipblocklist
-http://192.168.1.88:81/8080_blocklist.csv
+http://192.168.1.86:81/8080_blocklist.csv
 ## http://nas/blockranges.txt
