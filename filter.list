@@ -31,4 +31,4 @@ https://www.binarydefense.com/banlist.txt
 http://cinsscore.com/list/ci-badguys.txt
 https://zeustracker.abuse.ch/blocklist.php?download=ipblocklist
 http://192.168.1.86:81/8080_blocklist.csv
-\\NAS\Web\blockthis.txt
+https://raw.githubusercontent.com/pave-fe/IPSet_ASUS/master/blockranges.ipset
